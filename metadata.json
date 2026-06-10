@@ -1,0 +1,6 @@
+{
+  "name": "מחשבון כספת",
+  "description": "כספת מדיה סודית ומאובטחת המוסוות כמחשבון רגיל. מאחסנת תמונות וסרטונים בתוך האחסון הפנימי הפרטי.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
